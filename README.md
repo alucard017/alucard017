@@ -1,6 +1,8 @@
+
+<img align="centre" alt="Coding" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <h1 align="center">Hi 👋, I'm Apurba Sundar Nayak</h1>
 <h3 align="center">A passionate Web Developer and Programmer from India</h3>
-<img align="right" alt="Coding" width="400" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="400" src = "https://github.com/alucard017/alucard017/blob/main/aaa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alucard017&label=Profile%20views&color=0e75b6&style=flat" alt="alucard017" /> </p>
 
@@ -31,5 +33,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alucard017&icon=0&color=0)](https://visitcount.itsvg.in)
-![snake gif](https://github.com/alucard017/alucard017/blob/output/github-contribution-grid-snake.gif)
+
 
