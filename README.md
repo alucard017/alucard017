@@ -31,4 +31,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alucard017&icon=0&color=0)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/alucard017/alucard017/blob/output/github-contribution-grid-snake.gif)
 
