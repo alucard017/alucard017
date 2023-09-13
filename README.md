@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/@an_onymous_777" target="blank"><img src="https://img.shields.io/twitter/follow/@an_onymous_777?logo=twitter&style=for-the-badge" alt="@an_onymous_777" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Pre-Medical System<br><br>🌱 I’m currently learning Javascript, MERN Stack, DSA and CP<br><br>💬 Ask me about C, C++, SQL<br><br>📫 How to reach me <a href="apurbasundar2002@gmail.com"><br><br>⚡ Fun fact I am humorous and a bit shy..
+🔭 I’m currently working on Pre-Medical System<br><br>🌱 I’m currently learning Javascript, MERN Stack, DSA and CP<br><br>💬 Ask me about C, C++, SQL<br><br>📫 How to reach me "apurbasundar2002@gmail.com"<br><br>⚡ Fun fact I am humorous and a bit shy..
 
 
 ## 🌐 Socials:
