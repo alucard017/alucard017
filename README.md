@@ -1,5 +1,6 @@
 
 <img align="centre" alt="Coding" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
 <h1 align="center">Hi 👋, I'm Apurba Sundar Nayak</h1>
 <h3 align="center">A passionate Web Developer and Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src = "https://github.com/alucard017/alucard017/blob/main/aaa.gif">
