@@ -10,7 +10,7 @@
  
  🔭 I’m currently studying MCA from **NIT Jamshedpur**
  
- 🌱 I’m currently learning **Docker, Kubernetes, Ansible, AWS, Machine Learning**
+ 🌱 I’m currently learning **Exploring Blockchain, Docker, Cloud Computing**
 
 💬 Ask me about **C++, DSA, CSS, HTML, JavaScript... or anything [here](https://github.com/alucard017/alucard017/issues)**
 
@@ -77,10 +77,6 @@
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 😂 Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alucard017&icon=0&color=0)](https://visitcount.itsvg.in)
