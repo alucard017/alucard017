@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently studying MCA from **NIT Jamshedpur**
+ 🔭 I’m currently pursuing MCA from **NIT Jamshedpur**
  
- 🌱 I’m currently **Exploring Cloud Computing, Core Computer Science, Web3 Development**
+ 🌱 I’m currently **Exploring Core Computer Science, Systems Programming, Computer Network Security, Cloud Security & Computing etc...**
 
 💬 Ask me about **Web2 development, Operating Systems, Database Systems, Data Structures & Algorithms... or anything [here](https://github.com/alucard017/alucard017/issues)**
 
