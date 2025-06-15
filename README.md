@@ -1,73 +1,78 @@
 
 <img align="centre" alt="Coding" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<h1 align="center">Hi there 👋, I'm Apurba Sundar Nayak from 🇮🇳</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Apurba from 🇮🇳</h1>
+<h3 align="center">A computer science enthusiast who loves building cool and fun products.</h3> <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
-</h1>
-<h3 align="center">A computer science enthusiast from India who loves building cool and fun products.</h3>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alucard017.alucard017" />
-<br/>
+<div align="left">
+<p>
 
-<div align="center">
- 
- 🔭 I’m currently pursuing MCA from **NIT Jamshedpur**
- 
- 🌱 I’m currently **Exploring Core Computer Science, Systems Programming, Computer Network Security, Cloud Security & Computing etc...**
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/alucard017)
+ &nbsp;
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/alucard017)
+ &nbsp;
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=alucard017&style=flat&labelColor=black&logo=github&label=Profile+Views&color=29bf12"/>
+ &nbsp;
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/alucard017/alucard017?logo=markdown&label=Last+Update&color=29bf12&style=flat">
+</p>
 
-💬 Ask me about **Web2 development, Operating Systems, Database Systems, Data Structures & Algorithms... or anything [here](https://github.com/alucard017/alucard017/issues)**
+ ### Experience includes (but is not limited to):
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+- 🌱 I’m currently learning everything 🤣
+- 💡 I love innovation and new technologies
+- 🤝 I’m looking to collaborate with other content creators
+- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🚀 One day I will see myself in Hell.!
+- ⚡ Fun fact 1: I love to be in the garden and build a house
+- ⚡ Fun fact 2: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **anything [here](mailto:apurba.mca.nitjsr@gmail.com)**
 
  </div>
- 
+<br />
+
 <div align="center"> 
-  <a href="mailto:apurba.mca.nitjsr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/apurba007" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://alucard017.github.io/portfolio" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+ <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /> 
 </div>
 
- <hr/>
- 
+<hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,typescript,javascript,nextjs,react,nodejs,expressjs,html,vscode,github,git,bash" />
     <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,nginx,aws,postgresql,mongodb,java,mysql,postman" /><br>
 </div>
 
-<br/>
+<hr/>
+<h2 align="center">⚡ Contribution Stats ⚡</h2>
+<div align="center">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alucard017&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alucard017&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alucard017&theme=gotham&utcOffset=8)
+
+<img height=250 width=690 src="https://github-readme-streak-stats.herokuapp.com/?user=alucard017&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+</div>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<h2 align="center">⚡ Language Stats ⚡</h2>
 <div align=center>
-  <img height=250 width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alucard017&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
-  <img height=250 width=390 src="https://github-readme-stats.vercel.app/api?username=alucard017&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alucard017&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alucard017&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alucard017&theme=gotham)
 <br/><br/>
 
 <hr/>
 
-
-<br/>
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/alucard017/alucard017/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/alucard017/alucard017/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
----
-[![](https://visitcount.itsvg.in/api?id=alucard017&icon=0&color=0)](https://visitcount.itsvg.in)
 
+Thanks! :heart:
+
+<img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" /><img src="https://media3.giphy.com/media/RgAl2ESJFnIQ0/giphy.gif" alt="Spock" width="200" />
 
