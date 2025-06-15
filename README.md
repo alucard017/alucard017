@@ -62,7 +62,8 @@
 
 <br/>
 
-
+![GitHub Snake Light](https://raw.githubusercontent.com/alucard017/alucard017/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/alucard017/alucard017/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
