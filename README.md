@@ -39,6 +39,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,typescript,javascript,nextjs,react,nodejs,expressjs,html,vscode,github,git,bash" />
     <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,nginx,aws,postgresql,mongodb,java,mysql,postman" /><br>
+ <br/><br/>
 </div>
 
 <hr/>
@@ -48,8 +49,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alucard017&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alucard017&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alucard017&theme=gotham&utcOffset=8)
-
-<img height=250 width=690 src="https://github-readme-streak-stats.herokuapp.com/?user=alucard017&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<br/><br/>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=alucard017&theme=dark)](https://git.io/streak-stats) -->
 
 </div>
 <hr/>
